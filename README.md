@@ -1,12 +1,12 @@
-# 📊 Análise Preditiva de Vendas de Videogames
-### *Modelagem, Exploração Estatística e Análise orientada a negócio*
+# Análise preditiva de vendas de videogames
+### *Modelagem, exploração estatística e análise orientada a negócio*
 
-## 📌 Visão Geral
+## Visão geral
 Este projeto aplica técnicas de **Análise de Dados** e **Machine Learning** para investigar padrões que influenciam o desempenho comercial de jogos de videogame no mercado global. A análise inclui preparação de dados, exploração estatística, testes de hipóteses e criação de modelos preditivos para estimar vendas futuras.
 
 O objetivo é fornecer insumos estratégicos para decisões de marketing e alocação de investimento em campanhas, considerando fatores que determinam o sucesso de um jogo em diferentes regiões.
 
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - **Python 3.x**
 - **Jupyter Notebook**
 - **Anaconda**
@@ -19,14 +19,14 @@ O objetivo é fornecer insumos estratégicos para decisões de marketing e aloca
 - scipy
 - scikit-learn
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 ├── analise_preditiva_videogames.ipynb
 ├── anaconda_projects/db/
 └── README.md
 ```
 
-## 🛠 Metodologia
+## Metodologia
 
 ### 1. Preparação dos Dados
 - Padronização dos nomes das colunas
@@ -59,7 +59,7 @@ Modelos aplicados:
 
 Etapas: engenharia de atributos, divisão treino/teste, avaliação com RMSE e R².
 
-## 📈 Conclusões
+## Conclusões
 A análise revela fatores críticos para prever vendas, padrões regionais e impacto limitado das avaliações nos resultados comerciais. O modelo preditivo apresenta boa performance para apoiar decisões estratégicas.
 
 ## 📬 Contato
