@@ -4,7 +4,7 @@
 ## Visão geral
 Este projeto aplica técnicas de **Análise de Dados** e **Machine Learning** para investigar padrões que influenciam o desempenho comercial de jogos de videogame no mercado global. A análise inclui preparação de dados, exploração estatística, testes de hipóteses e criação de modelos preditivos para estimar vendas futuras.
 
-O objetivo é fornecer insumos estratégicos para decisões de marketing e alocação de investimento em campanhas, considerando fatores que determinam o sucesso de um jogo em diferentes regiões.
+O objetivo é fornecer insumos estratégicos para decisões de marketing e alocação de investimento em campanhas, considerando fatores que determinam o sucesso de um jogo em diferentes regiões, como América do Norte, Europa e Japão.
 
 ## Tecnologias e Ferramentas
 - **Python 3.x**
